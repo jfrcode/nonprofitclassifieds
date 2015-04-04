@@ -12,3 +12,6 @@ upload
 This website is under creative commons license.
 
 This website's html and css was made using a template that is the index.html file.
+
+Any legal information on the in the html files is probably out of dat or wrong so don't use that
+information.
